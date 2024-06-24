@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<businessObjectModel xmlns="http://documentation.bonitasoft.com/bdm-xml-schema/1.0" modelVersion="1.0">
+    <businessObjects>
+        <businessObject qualifiedName="com.company.model.Reclamo">
+            <fields>
+                <field type="STRING" length="255" name="numeroReclamo" nullable="false" collection="false"/>
+                <field type="LOCALDATETIME" length="255" name="fechaHoraRecepcion" nullable="false" collection="false"/>
+                <field type="TEXT" length="255" name="descripcion" nullable="false" collection="false"/>
+                <field type="STRING" length="255" name="categoria" nullable="false" collection="false"/>
+                <field type="STRING" length="255" name="documentacionAdjunta" nullable="true" collection="false"/>
+                <field type="STRING" length="255" name="estado" nullable="false" collection="false"/>
+                <field type="STRING" length="255" name="resolucion" nullable="true" collection="false"/>
+                <field type="LOCALDATETIME" length="255" name="fechaResolucion" nullable="true" collection="false"/>
+            </fields>
+            <uniqueConstraints/>
+            <queries/>
+            <indexes/>
+        </businessObject>
+        <businessObject qualifiedName="com.company.model.Usuario">
+            <fields>
+                <field type="STRING" length="255" name="nombre" nullable="false" collection="false"/>
+                <field type="STRING" length="255" name="correoElectronico" nullable="false" collection="false"/>
+                <field type="STRING" length="255" name="telefono" nullable="false" collection="false"/>
+                <field type="STRING" length="255" name="direccion" nullable="true" collection="false"/>
+                <field type="STRING" length="255" name="identificacion" nullable="false" collection="false"/>
+            </fields>
+            <uniqueConstraints/>
+            <queries/>
+            <indexes/>
+        </businessObject>
+    </businessObjects>
+</businessObjectModel>
