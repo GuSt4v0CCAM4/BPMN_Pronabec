@@ -4,14 +4,14 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>com.company</groupId>
-    <artifactId>pronabec-bdm-parent</artifactId>
+    <artifactId>prueba-bdm-parent</artifactId>
     <version>0.0.1</version>
   </parent>
-  <artifactId>pronabec-bdm-dao-client</artifactId>
+  <artifactId>prueba-bdm-dao-client</artifactId>
   <dependencies>
     <dependency>
       <groupId>${project.groupId}</groupId>
-      <artifactId>pronabec-bdm-model</artifactId>
+      <artifactId>prueba-bdm-model</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<applications xmlns="http://documentation.bonitasoft.com/application-xml-schema/1.0">
+    <application token="solicitud-vacaciones" version="1.0" profile="User" homePage="solicitud-vacaciones" state="ACTIVATED" layout="custompage_layoutBonita" theme="custompage_themeBonita">
+        <displayName>Aplicación de solicitudes de vacaciones</displayName>
+        <applicationPages>
+            <applicationPage customPage="custompage_SeguimientoDeSolicitudes" token="solicitud-vacaciones"/>
+        </applicationPages>
+        <applicationMenus>
+            <applicationMenu applicationPage="solicitud-vacaciones">
+                <displayName>Seguimiento de las solicitudes de vacaciones</displayName>
+            </applicationMenu>
+        </applicationMenus>
+    </application>
+</applications>
