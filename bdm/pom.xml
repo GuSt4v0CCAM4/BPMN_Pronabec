@@ -4,10 +4,10 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>com.company</groupId>
-    <artifactId>pronabec-parent</artifactId>
+    <artifactId>juguty-parent</artifactId>
     <version>0.0.1</version>
   </parent>
-  <artifactId>pronabec-bdm-parent</artifactId>
+  <artifactId>juguty-bdm-parent</artifactId>
   <packaging>pom</packaging>
   <modules>
     <module>model</module>
