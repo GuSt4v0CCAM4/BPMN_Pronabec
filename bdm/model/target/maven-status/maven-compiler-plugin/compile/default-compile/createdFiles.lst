@@ -1,0 +1,10 @@
+com\company\model\MaterialDifusion.class
+com\company\model\Respuesta.class
+com\company\model\RespuestaDAO.class
+com\company\model\BoletinDAO.class
+com\company\model\MaterialDifusionDAO.class
+com\company\model\PlanDifusion.class
+com\company\model\PlanDifusionDAO.class
+com\company\model\Consulta.class
+com\company\model\Boletin.class
+com\company\model\ConsultaDAO.class

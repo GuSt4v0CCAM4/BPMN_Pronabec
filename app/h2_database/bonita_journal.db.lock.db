@@ -1,0 +1,6 @@
+#FileLock
+#Thu Jun 27 18:16:48 COT 2024
+server=192.168.56.1\:57854
+hostName=192.168.56.1
+method=file
+id=1905bfcbdca9c96a890a06442c305bd49a09dd7384e
