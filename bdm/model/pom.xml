@@ -4,10 +4,10 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>com.company</groupId>
-    <artifactId>minedu-bdm-parent</artifactId>
+    <artifactId>pronabec-bdm-parent</artifactId>
     <version>0.0.1</version>
   </parent>
-  <artifactId>minedu-bdm-model</artifactId>
+  <artifactId>pronabec-bdm-model</artifactId>
   <dependencies>
     <dependency>
       <groupId>org.bonitasoft.engine.data</groupId>

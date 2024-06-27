@@ -4,10 +4,10 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>com.company</groupId>
-    <artifactId>minedu-parent</artifactId>
+    <artifactId>pronabec-parent</artifactId>
     <version>0.0.1</version>
   </parent>
-  <artifactId>minedu-bdm-parent</artifactId>
+  <artifactId>pronabec-bdm-parent</artifactId>
   <packaging>pom</packaging>
   <modules>
     <module>model</module>
