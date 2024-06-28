@@ -4,10 +4,10 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>com.company</groupId>
-    <artifactId>pronabec-bdm-parent</artifactId>
+    <artifactId>proceso_evaluacion_mejoracontinua-bdm-parent</artifactId>
     <version>0.0.1</version>
   </parent>
-  <artifactId>pronabec-bdm-model</artifactId>
+  <artifactId>proceso_evaluacion_mejoracontinua-bdm-model</artifactId>
   <dependencies>
     <dependency>
       <groupId>org.bonitasoft.engine.data</groupId>
